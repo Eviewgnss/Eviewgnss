@@ -33,7 +33,7 @@ Eview receivers output **Septentrio SBF** and **NMEA** and work with the existin
 - **PX4** – Septentrio driver (`SEP_PORT1_CFG`)
 - **ROS 2** – [`septentrio_gnss_driver`](https://github.com/septentrio-gnss/septentrio_gnss_driver)
 
-Configuration examples will be published in this account.
+Configuration examples: **[ardupilot-config-examples](https://github.com/Eviewgnss/ardupilot-config-examples)** (ArduPilot parameters for HB6, HB52, HBEV322, HB6 Pro and HB10). PX4 and ROS 2 examples coming next.
 
 ---
 
